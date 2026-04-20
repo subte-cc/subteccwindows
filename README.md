@@ -1,6 +1,6 @@
 # subte.cc client for Windows
 
-### Download [here](https://codeberg.org/subte-cc/subteccwindows/releases)
+### Download [here](https://github.com/subte-cc/subteccwindows/releases)
 *Works on Windows 7 onwards, requires [.NET Framework 4.7.2](https://go.microsoft.com/fwlink/?linkid=863265)*
 
 ## Domains Tab
